@@ -1,1 +1,7 @@
-This is master file
+#This is master file
+
+If (fp_data == true)
+  {
+    Print("welcome " + cust.name)
+    homepage.load
+  }
